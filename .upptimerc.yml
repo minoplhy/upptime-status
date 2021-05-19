@@ -3,15 +3,15 @@ owner: minoplhy
 repo: upptime-status
 
 sites:
-  - name: [LU] Kylz.nl
+  - name: "[LU] Kylz.nl"
     url: https://kylz.nl
-  - name: [LU] Git server
+  - name: "[LU] Git server"
     url: https://git.kylz.nl
-  - name: [LU] filters-build webserver
+  - name: "[LU] filters-build webserver"
     url: https://filters.kylz.nl
-  - name: [LU] Crappy blog
+  - name: "[LU] Crappy blog"
     url: https://crappy.kylz.nl
-  - name: [US] m21 webserver
+  - name: "[US] m21 webserver"
     url: https://m21.kylz.nl
 
 status-website:
