@@ -18,7 +18,7 @@ status-website:
   cname: status.kylz.nl
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: *.kylz.nl status
+  name: "*.kylz.nl status"
   introTitle: "**A TITLE**"
   introMessage: welcome
   navbar:
