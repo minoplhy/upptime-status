@@ -17,10 +17,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kylz.nl
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "*.kylz.nl status"
-  introTitle: "**A TITLE**"
-  introMessage: welcome
+  introTitle: "a status page of *.kylz.nl"
+  introMessage: This page is create from github pages
   navbar:
     - title: Status
       href: /
