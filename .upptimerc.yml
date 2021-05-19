@@ -3,14 +3,16 @@ owner: minoplhy
 repo: upptime-status
 
 sites:
-  - name: Kylz.nl
+  - name: [LU] Kylz.nl
     url: https://kylz.nl
-  - name: Git server
+  - name: [LU] Git server
     url: https://git.kylz.nl
-  - name: filters-build webserver
+  - name: [LU] filters-build webserver
     url: https://filters.kylz.nl
-  - name: Crappy blog
+  - name: [LU] Crappy blog
     url: https://crappy.kylz.nl
+  - name: [US] m21 webserver
+    url: https://m21.kylz.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
