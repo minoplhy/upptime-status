@@ -2,7 +2,6 @@
 owner: minoplhy
 repo: upptime-status
 user-agent: Hurbar
-
 sites:
   - name: "[LU] Kylz.nl"
     url: https://kylz.nl
@@ -35,7 +34,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 commitMessages:
   commitAuthorName: "Hurbar"
   commitAuthorEmail: "hurbar@m21.kylz.nl"
