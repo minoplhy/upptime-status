@@ -1,6 +1,7 @@
 # Change these first
 owner: minoplhy
 repo: upptime-status
+user-agent: Hurbar
 
 sites:
   - name: "[LU] Kylz.nl"
