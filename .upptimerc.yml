@@ -38,11 +38,6 @@ status-website:
 commitMessages:
   commitAuthorName: "Hurbar"
   commitAuthorEmail: "hurbar@m21.kylz.nl"
-  readmeContent: ":pencil: Update summary in README"
-  summaryJson: ":card_file_box: Update status summary"
-  statusChange: "[Status] : $EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
-  graphsUpdate: ":bento: Update graphs"
-
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
