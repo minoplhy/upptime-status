@@ -40,19 +40,19 @@
     "url": "https://filters.kylz.nl",
     "icon": "https://favicons.githubusercontent.com/filters.kylz.nl",
     "slug": "lu-filters-build-webserver",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 595,
-    "timeDay": 610,
+    "timeDay": 611,
     "timeWeek": 595,
     "timeMonth": 595,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2021-05-21": 1
+      "2021-05-21": 8
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://crappy.kylz.nl",
     "icon": "https://crappy.kylz.nl/favicon.ico",
     "slug": "lu-crappy-blog",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 722,
-    "timeDay": 728,
-    "timeWeek": 722,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 721,
+    "timeDay": 727,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2021-05-21": 0
+      "2021-05-21": 8
     }
   },
   {
