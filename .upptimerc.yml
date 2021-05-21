@@ -23,9 +23,9 @@ status-website:
   cname: status.kylz.nl
   # baseUrl: /your-repo-name
   theme: dark
-  logoUrl: logo.png
-  favicon: logo.png
-  faviconSvg: logo.svg
+  logoUrl: https://status.kylz.nl/logo.png
+  favicon: https://status.kylz.nl/logo.png
+  faviconSvg: https://status.kylz.nl/logo.svg
   name: "*.kylz.nl status"
   introTitle: "a status page of *.kylz.nl"
   introMessage: This page is create from github pages
