@@ -26,9 +26,9 @@ status-website:
   logoUrl: https://sos-ch-dk-2.exo.io/noblt/status/favicon.png
   favicon: https://sos-ch-dk-2.exo.io/noblt/status/favicon.png
   faviconSvg: https://sos-ch-dk-2.exo.io/noblt/status/logo.svg
-  name: "*.kylz.nl status"
-  introTitle: "a status page of *.kylz.nl"
-  introMessage: This page is create from github pages
+  name: "^.kylz.nl status"
+  introTitle: "a status page of ^.kylz.nl"
+  introMessage: updates every 10 minutes
   navbar:
     - title: Status
       href: /
