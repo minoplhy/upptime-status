@@ -7,18 +7,22 @@ sites:
     url: https://kylz.nl
   - name: "[LU] Git server"
     url: https://git.kylz.nl
+    icon: https://git.kylz.nl/img/logo.svg
   - name: "[LU] filters-build webserver"
     url: https://filters.kylz.nl
   - name: "[LU] Crappy blog"
     url: https://crappy.kylz.nl
+    icon: https://crappy.kylz.nl/favicon.ico
   - name: "[US] m21 webserver"
     url: https://m21.kylz.nl
-
+assignees: # Users to assign downtime issues (optional)
+  - minoplhy
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kylz.nl
   # baseUrl: /your-repo-name
+  theme: dark
   name: "*.kylz.nl status"
   introTitle: "a status page of *.kylz.nl"
   introMessage: This page is create from github pages
@@ -27,6 +31,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "Hurbar"
+  commitAuthorEmail: "hurbar@m21.kylz.nl"
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
