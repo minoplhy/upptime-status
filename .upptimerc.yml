@@ -13,6 +13,10 @@ sites:
   - name: "[LU] Crappy blog"
     url: https://crappy.kylz.nl
     icon: https://crappy.kylz.nl/favicon.ico
+  - name: "[LU-frontend] [CH-backend] **FAKE**S3 CDN
+    url: https://cdn.kylz.nl
+    expectedStatusCodes:
+      - 403
   - name: "[US] m21 webserver"
     url: https://m21.kylz.nl
 assignees: # Users to assign downtime issues (optional)
