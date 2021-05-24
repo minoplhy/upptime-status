@@ -60,7 +60,7 @@
     "slug": "lu-crappy-blog",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/cdn.kylz.nl",
     "slug": "lu-frontend-ch-backend-fake-s3-cdn",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 750,
     "timeDay": 786,
     "timeWeek": 750,
     "timeMonth": 750,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2021-05-24": 0
+      "2021-05-24": 1
     }
   },
   {
