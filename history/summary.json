@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
-    "timeDay": 677,
+    "timeDay": 678,
     "timeWeek": 636,
     "timeMonth": 636,
     "timeYear": 636,
@@ -58,36 +58,40 @@
     "url": "https://crappy.kylz.nl",
     "icon": "https://crappy.kylz.nl/favicon.ico",
     "slug": "lu-crappy-blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 743,
-    "timeDay": 781,
+    "timeDay": 782,
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-24": 1
+    }
   },
   {
     "name": "[LU-frontend] [CH-backend] **FAKE**S3 CDN",
     "url": "https://cdn.kylz.nl",
     "icon": "https://favicons.githubusercontent.com/cdn.kylz.nl",
     "slug": "lu-frontend-ch-backend-fake-s3-cdn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 750,
-    "timeDay": 785,
+    "timeDay": 786,
     "timeWeek": 750,
     "timeMonth": 750,
     "timeYear": 750,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-24": 0
+    }
   },
   {
     "name": "[US] m21 webserver",
@@ -100,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 433,
-    "timeWeek": 442,
-    "timeMonth": 442,
-    "timeYear": 442,
+    "time": 443,
+    "timeDay": 436,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   }
 ]
