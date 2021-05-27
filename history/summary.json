@@ -4,9 +4,9 @@
     "url": "https://kylz.nl",
     "icon": "https://favicons.githubusercontent.com/kylz.nl",
     "slug": "lu-kylz-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 652,
     "timeMonth": 646,
     "timeYear": 646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "[LU] Git server",
     "url": "https://git.kylz.nl",
     "icon": "https://git.kylz.nl/img/logo.svg",
     "slug": "lu-git-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 725,
     "timeMonth": 721,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "[LU] filters-build webserver",
     "url": "https://filters.kylz.nl",
     "icon": "https://favicons.githubusercontent.com/filters.kylz.nl",
     "slug": "lu-filters-build-webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 628,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "[LU] Crappy blog",
     "url": "https://crappy.kylz.nl",
     "icon": "https://crappy.kylz.nl/favicon.ico",
     "slug": "lu-crappy-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 746,
     "timeMonth": 745,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "[LU-frontend] [CH-backend] **FAKE**S3 CDN",
     "url": "https://cdn.kylz.nl",
     "icon": "https://favicons.githubusercontent.com/cdn.kylz.nl",
     "slug": "lu-frontend-ch-backend-fake-s3-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +95,9 @@
     "timeWeek": 723,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "[US] m21 webserver",
@@ -102,7 +112,7 @@
     "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 437,
-    "timeWeek": 444,
+    "timeWeek": 443,
     "timeMonth": 440,
     "timeYear": 440,
     "dailyMinutesDown": {}
