@@ -10,11 +10,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 647,
-    "timeDay": 645,
-    "timeWeek": 647,
-    "timeMonth": 647,
-    "timeYear": 647,
+    "time": 648,
+    "timeDay": 661,
+    "timeWeek": 649,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2021-05-27": 5
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 694,
-    "timeDay": 658,
-    "timeWeek": 680,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "time": 695,
+    "timeDay": 672,
+    "timeWeek": 682,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2021-05-30": 10,
       "2021-05-27": 5
@@ -45,18 +45,19 @@
     "url": "https://filters.kylz.nl",
     "icon": "https://favicons.githubusercontent.com/filters.kylz.nl",
     "slug": "lu-filters-build-webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 623,
-    "timeDay": 637,
-    "timeWeek": 620,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "time": 624,
+    "timeDay": 644,
+    "timeWeek": 623,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
+      "2021-06-01": 0,
       "2021-05-31": 15,
       "2021-05-27": 5
     }
@@ -72,11 +73,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 751,
-    "timeDay": 782,
-    "timeWeek": 752,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "time": 752,
+    "timeDay": 773,
+    "timeWeek": 753,
+    "timeMonth": 752,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2021-05-27": 5
     }
@@ -93,8 +94,8 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 714,
-    "timeDay": 759,
-    "timeWeek": 705,
+    "timeDay": 732,
+    "timeWeek": 707,
     "timeMonth": 714,
     "timeYear": 714,
     "dailyMinutesDown": {
@@ -113,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 421,
+    "time": 427,
+    "timeDay": 420,
     "timeWeek": 421,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {}
   }
 ]
