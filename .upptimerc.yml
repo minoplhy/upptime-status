@@ -32,7 +32,7 @@ status-website:
   faviconSvg: https://sos-ch-dk-2.exo.io/noblt/status/logo.svg
   name: "^.kylz.nl status"
   introTitle: "a status page of ^.kylz.nl"
-  introMessage: updates every 10 minutes
+  introMessage: updates every 5 minutes
   navbar:
     - title: Status
       href: /
