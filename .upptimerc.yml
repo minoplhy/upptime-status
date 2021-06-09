@@ -6,12 +6,12 @@ sites:
   - name: "[LU] Kylz.nl"
     url: https://kylz.nl
   - name: "[LU] Git server"
-    url: https://git.kylz.nl
+    url: https://kylz.nl/git/
     icon: https://git.kylz.nl/img/logo.svg
   - name: "[LU] filters-build webserver"
     url: https://filters.kylz.nl
   - name: "[LU] Crappy blog"
-    url: https://crappy.kylz.nl
+    url: https://kylz.nl/crappy/
     icon: https://crappy.kylz.nl/favicon.ico
   - name: "[LU-frontend] [CH-backend] **FAKE**S3 CDN"
     url: https://cdn.kylz.nl
