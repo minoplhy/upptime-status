@@ -1,7 +1,7 @@
 url: https://cdn.kylz.nl
-status: up
-code: 403
-responseTime: 629
-lastUpdated: 2021-08-18T03:45:18.086Z
+status: down
+code: 502
+responseTime: 579
+lastUpdated: 2021-08-18T03:50:22.948Z
 startTime: Sat May 22 2021 16:49:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
