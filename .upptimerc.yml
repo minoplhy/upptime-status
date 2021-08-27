@@ -5,9 +5,6 @@ user-agent: Hurbar
 sites:
   - name: "[LU] Kylz.nl"
     url: https://kylz.nl
-  - name: "[LU] Git server"
-    url: https://kylz.nl/git/
-    icon: https://git.kylz.nl/img/logo.svg
   - name: "[LU] filters-build webserver"
     url: https://filters.kylz.nl
   - name: "[LU] Crappy blog"
